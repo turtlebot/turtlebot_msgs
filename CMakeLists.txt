@@ -5,7 +5,6 @@ find_package(catkin REQUIRED COMPONENTS std_msgs sensor_msgs std_srvs message_ge
 
 add_message_files(DIRECTORY msg
                       FILES PanoramaImg.msg
-                      FILES LaptopChargeStatus.msg
                  )
 
 add_service_files(DIRECTORY srv
