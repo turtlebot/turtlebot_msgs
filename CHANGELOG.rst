@@ -2,6 +2,12 @@
 Changelog for package turtlebot_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* remove laptop charge status message `#2 <https://github.com/turtlebot/turtlebot_msgs/issues/2>`_
+* LaptopChargeStatus moved here from turtlebot stack.
+* Contributors: Daniel Stonier, Jihoon Lee
+
 2.2.0 (2013-08-30)
 ------------------
 * Changelog added
